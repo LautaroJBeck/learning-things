@@ -15,3 +15,17 @@
     font-size: 32px;
     color:rgb(252,252,252);
 }
+.articulo{
+    width:70%;
+    margin:5rem auto;
+    border:1px solid #ccc;
+    text-align:left;
+    padding:1rem;
+}
+.articulo h3{
+    font-size: 2rem;
+}
+.articulo p{
+    font-size: 1.25rem;
+    margin:1rem auto;
+}
